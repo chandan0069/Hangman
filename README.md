@@ -7,6 +7,7 @@ hangman.py (main script)
 hangman_words.py (list of words to choose from)
 hangman_art.py (visual representations of hangman stages)
 Run the script: python hangman.py
+
 Gameplay:
 
 The game will start with the classic Hangman logo.
@@ -19,7 +20,6 @@ Deduct a life and display the corresponding hangman stage if your guess is wrong
 The game ends when:
 You successfully guess all the letters (win).
 You run out of lives (lose).
-Code Structure:
 
 Key Files:
 
